@@ -1,0 +1,51 @@
+{
+   "STATUS":true,
+   "MSG":"",
+   "APP_SETTINGS":{
+      "app_name":"Daily Free Diamonds???? - Fire Guide 2021",
+      "app_accountName":"Finance And Credit Score Apps",
+      "app_packageName":"financeapps.dailyfire.freediamonds",
+      "app_logo":"https:\/\/androtechsolution.in\/AppsManager\/upload\/app\/AppLogo86e2f54008fa964a2d5f1ad8824fbe62.png",
+      "app_status":"Publish",
+      "app_privacyPolicyLink":"https:\/\/financencreditscoreapps.blogspot.com\/",
+      "app_needInternet":"0",
+      "app_updateAppDialogStatus":"0",
+      "app_versionCode":"",
+       "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
+      "app_redirectOtherAppStatus":"0",
+      "app_newPackageName":"",
+      "app_dialogBeforeAdShow":"0",
+      "app_adShowStatus":"1",
+      "app_AppOpenAdStatus":"1",
+      "app_howShowAd":"0",
+      "app_alernateAdShow":"",
+      "app_mainClickCntSwAd":"0",
+      "app_innerClickCntSwAd":"0",
+      "app_adshow":"Facebookaudiencenetwork"
+   },
+   "PLACEMENT":{
+     
+      "Admob":{
+         "ad_showAdStatus":"1",
+         "AppID":"ca-app-pub-5517092987757413~8240781391",
+         "Banner1":"ca-app-pub-3940256099942544/6300978111",
+         "Interstitial1":"ca-app-pub-3940256099942544/1033173712",
+         "Native1":"ca-app-pub-3940256099942544/2247696110",
+         "RewardedVideo1":"",
+         "AppOpen":"ca-app-pub-3940256099942544/3419835294"
+      },
+      "Facebookaudiencenetwork":{
+         "ad_showAdStatus":"1",
+         "Banner1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "Interstitial1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "Interstitial2":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "Native1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "RewardedVideo1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+         "NativeBanner1":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+      }
+   },
+   "MORE_APP":[
+      
+   ],
+   "EXTRA_DATA":null
+}
